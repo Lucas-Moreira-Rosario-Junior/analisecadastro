@@ -11,7 +11,7 @@ const Footer = (props) => {
           <th>sexo</th>
           <th>endereço</th>
           <th>telefone</th>
-          <th>veiculo-></th>
+          <th>veiculo</th>
           <th>id</th>
           <th>tipo</th>
           <th>ano</th>
