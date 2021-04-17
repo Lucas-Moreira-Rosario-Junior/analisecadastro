@@ -21,7 +21,7 @@ import {
   
     return (
       <div>
-        <Navbar color="primary" dark expand="md">
+        <Navbar color="success" dark expand="md">
           <NavbarBrand href="/">Lista de cadastrados</NavbarBrand>
           <NavbarToggler onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
